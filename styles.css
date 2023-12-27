@@ -177,13 +177,10 @@ h1 {
     justify-content: center;
     align-items: center;
     transition: ease-in-out 0.4s;
-}
-
-.get__consultation a {
     text-decoration: none;
     color: #FFF;
     font-size: 16px;
-
+    text-transform: none;
 }
 
 .get__consultation:hover {
